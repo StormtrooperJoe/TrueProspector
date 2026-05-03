@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TrueProspector/TrueProspector/TrueProspector.csproj" />
+  <Project Path="TrueProspector/ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
